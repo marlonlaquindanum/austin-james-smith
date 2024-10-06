@@ -1,0 +1,320 @@
+{
+  "sections": {
+    "slideshow-1": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BullRing_Black.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/group_Black.jpg",
+            "focal_point": "right_center",
+            "focal_point_mobile": "center_center",
+            "video_url": "",
+            "meta": "",
+            "title": "Phase 7: Utopia BLACK",
+            "subheading": "<p>discover the new silver and black rhodium<\/p><p>  selection from Phase 7: UTOPIA<\/p>",
+            "max_width_subheading": 30,
+            "link_text": "View Collection",
+            "link": "shopify:\/\/collections\/phase-7-utopia",
+            "alignment": "left_bottom",
+            "color_heading": "#ffffff",
+            "color_subheading": "#ffffff",
+            "color_text_button": "#ffffff",
+            "color_background_button": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "opacity_overlay": 20
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "settings": {
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "duration_autoplay": 4,
+        "enable_parallax": false,
+        "enable_full_width": false,
+        "color_dot": "#777777"
+      }
+    },
+    "featured-products-1": {
+      "type": "featured-products",
+      "blocks": {
+        "1600980531412": {
+          "type": "product",
+          "settings": {
+            "product": "utopia-hoop-earring"
+          }
+        },
+        "1600980543030": {
+          "type": "product",
+          "settings": {
+            "product": "utopia-bullring-necklace"
+          }
+        },
+        "1600980550720": {
+          "type": "product",
+          "settings": {
+            "product": "utopia-hoop-ear-cuff"
+          }
+        }
+      },
+      "block_order": [
+        "1600980531412",
+        "1600980543030",
+        "1600980550720"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Bullring_Globe.jpg",
+        "image_position": "left",
+        "title": "PHASE 7: UTOPIA",
+        "subheading": "The latest jewelry collection from Austin James Smith, featuring elevated simple design motifs with a new contemporary, minimalist aesthetic.",
+        "link": "shopify:\/\/collections\/phase-7-utopia",
+        "link_text": "VIEW FULL COLLECTION",
+        "enable_contrast": true,
+        "enable_full_width": true
+      }
+    },
+    "2-column-mosaic-grid": {
+      "type": "2-column-mosaic-grid",
+      "blocks": {
+        "small_square-1": {
+          "type": "small_square",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5937.jpg",
+            "video_url": "",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "title": "",
+            "subheading": "",
+            "text_max_width": 20,
+            "link_text": "SHOP NECKLACES",
+            "link": "shopify:\/\/collections\/necklaces",
+            "text_position": "left_bottom",
+            "background_color": "",
+            "color_text": "#ffffff",
+            "color_subheading": "#b8b8b8",
+            "color_background_button": "#000000",
+            "color_text_button": "#ffffff",
+            "overlay_color": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "small_square-2": {
+          "type": "small_square",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_441f9261-1f73-4e73-aed2-0f80794437cf.jpg",
+            "video_url": "",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "title": "",
+            "subheading": "",
+            "text_max_width": 20,
+            "link_text": "SHOP EARRINGS",
+            "link": "shopify:\/\/collections\/earrings-1",
+            "text_position": "left_bottom",
+            "background_color": "",
+            "color_text": "#ffffff",
+            "color_subheading": "#b8b8b8",
+            "color_background_button": "#000000",
+            "color_text_button": "#ffffff",
+            "overlay_color": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "e10489da-5cef-47d2-9c1b-519506f64756": {
+          "type": "small_square",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shell_gold_2.jpg",
+            "video_url": "",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "title": "",
+            "subheading": "",
+            "text_max_width": 28,
+            "link_text": "SHOP BRACELETS",
+            "link": "shopify:\/\/collections\/bracelets",
+            "text_position": "left_bottom",
+            "background_color": "",
+            "color_text": "#ffffff",
+            "color_subheading": "#b8b8b8",
+            "color_background_button": "#000000",
+            "color_text_button": "#ffffff",
+            "overlay_color": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "bfe839d9-fd47-4eb7-bd33-81ac1fc43e16": {
+          "type": "small_square",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/face_f1bd770c-547e-47f5-817e-3825c3f4f446.jpg",
+            "video_url": "",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "title": "",
+            "subheading": "",
+            "text_max_width": 28,
+            "link_text": "SHOP NOSE RINGS",
+            "link": "shopify:\/\/collections\/nose-rings",
+            "text_position": "left_bottom",
+            "background_color": "",
+            "color_text": "#ffffff",
+            "color_subheading": "#b8b8b8",
+            "color_background_button": "#000000",
+            "color_text_button": "#ffffff",
+            "overlay_color": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "90a41194-4c63-432d-9f6e-53e15abd6034": {
+          "type": "small_square",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CanalHand4.jpg",
+            "video_url": "",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "title": "",
+            "subheading": "",
+            "text_max_width": 28,
+            "link_text": "SHOP RINGS",
+            "link": "shopify:\/\/collections\/rings",
+            "text_position": "left_bottom",
+            "background_color": "",
+            "color_text": "#ffffff",
+            "color_subheading": "#b8b8b8",
+            "color_background_button": "#000000",
+            "color_text_button": "#ffffff",
+            "overlay_color": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "cae6738a-a294-46d1-8269-801feba2a852": {
+          "type": "small_square",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/post.jpg",
+            "video_url": "",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "title": "",
+            "subheading": "",
+            "text_max_width": 28,
+            "link_text": "SHOP EAR CUFFS",
+            "link": "shopify:\/\/collections\/ear-cuffs",
+            "text_position": "left_bottom",
+            "background_color": "",
+            "color_text": "#ffffff",
+            "color_subheading": "#b8b8b8",
+            "color_background_button": "#000000",
+            "color_text_button": "#ffffff",
+            "overlay_color": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "small_square-1",
+        "small_square-2",
+        "e10489da-5cef-47d2-9c1b-519506f64756",
+        "bfe839d9-fd47-4eb7-bd33-81ac1fc43e16",
+        "90a41194-4c63-432d-9f6e-53e15abd6034",
+        "cae6738a-a294-46d1-8269-801feba2a852"
+      ],
+      "settings": {
+        "enable_full_width": false
+      }
+    },
+    "167979264918e263de": {
+      "type": "apps",
+      "blocks": {
+        "8f3238af-7bcf-41d0-bc6d-b431b33deca1": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "8f3238af-7bcf-41d0-bc6d-b431b33deca1"
+      ],
+      "settings": {
+      }
+    },
+    "featured-collection-1": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "pieces-on-sale",
+        "title": "PIECES ON SALE",
+        "per_row": 3,
+        "rows": 2,
+        "aspect_ratio": "natural"
+      }
+    },
+    "slideshow-3": {
+      "type": "slideshow",
+      "settings": {
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "duration_autoplay": 4,
+        "enable_parallax": false,
+        "enable_full_width": false,
+        "color_dot": "#777777"
+      }
+    },
+    "c174c4aa-16be-4f01-9d3d-730e7ee16ed4": {
+      "type": "featured-products",
+      "blocks": {
+        "c9228029-f867-41e7-9362-3a8587c01fd6": {
+          "type": "product",
+          "settings": {
+            "product": "manta-necklace"
+          }
+        },
+        "7453fc3e-1c53-4f07-9e07-d28dc967db4f": {
+          "type": "product",
+          "settings": {
+            "product": "tidal-ring"
+          }
+        },
+        "ed626e48-45f8-40f1-8964-8bc726a5ed38": {
+          "type": "product",
+          "settings": {
+            "product": "scimitar-earring"
+          }
+        }
+      },
+      "block_order": [
+        "c9228029-f867-41e7-9362-3a8587c01fd6",
+        "7453fc3e-1c53-4f07-9e07-d28dc967db4f",
+        "ed626e48-45f8-40f1-8964-8bc726a5ed38"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WEB3_d83d836f-f8fe-465e-a3ae-f50573c0b53e.jpg",
+        "image_position": "right",
+        "title": "PHASE 6: LOST",
+        "subheading": "The 6th jewelry collection from Austin James smith features bright enamel colors to complement any nautical pirate summer vibe.",
+        "link": "shopify:\/\/collections\/phase-6",
+        "link_text": "VIEW FULL COLLECTION",
+        "enable_contrast": true,
+        "enable_full_width": true
+      }
+    }
+  },
+  "order": [
+    "slideshow-1",
+    "featured-products-1",
+    "2-column-mosaic-grid",
+    "167979264918e263de",
+    "featured-collection-1",
+    "slideshow-3",
+    "c174c4aa-16be-4f01-9d3d-730e7ee16ed4"
+  ]
+}

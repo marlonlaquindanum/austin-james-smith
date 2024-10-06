@@ -1,0 +1,51 @@
+{
+  "sections": {
+    "intro": {
+      "type": "main-collection-intro",
+      "settings": {
+        "collection_header_style": "half",
+        "image_position": "center center",
+        "enable_full_width": true,
+        "show_collection_description": true,
+        "max_width_text": 34,
+        "opacity_overlay": 60,
+        "color_overlay": "#000000",
+        "color_heading": "#ffffff",
+        "color_subheading": "#b8b8b8"
+      }
+    },
+    "main": {
+      "type": "main-collection-grid",
+      "custom_css": [
+        "ul.pagination__list li {margin: 0 15px;}",
+        "ul.pagination__list a {padding: 5px; border-bottom: 1px solid transparent; color: #000; text-decoration: none; display: inline-block;}",
+        "ul.pagination__list {padding: 0; margin: 5px;}",
+        ".pagination__item--active span {border-bottom: 1px solid #000;}",
+        ".pagination {justify-content: center; border: none;}"
+      ],
+      "settings": {
+        "show_filter": true,
+        "show_sort": true,
+        "per_row": 3,
+        "per_page": 20,
+        "pagination": "paginated",
+        "aspect_ratio": "natural"
+      }
+    },
+    "featured": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "core-earrings",
+        "title": "YOU MAY ALSO LIKE",
+        "per_row": 4,
+        "rows": 1,
+        "aspect_ratio": "natural"
+      }
+    }
+  },
+  "order": [
+    "intro",
+    "main",
+    "featured"
+  ]
+}

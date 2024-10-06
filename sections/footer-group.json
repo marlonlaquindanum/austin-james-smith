@@ -1,0 +1,67 @@
+{
+  "type": "footer",
+  "name": "t:groups.footer_group.name",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "1600315542945": {
+          "type": "text",
+          "settings": {
+            "title": "ABOUT",
+            "text": "<p>NYC based genderless jewelry brand. All pieces carefully handmade in sterling silver featuring cutting edge unique design that create a statement. Edgy medieval design meets futuristic punk aesthetics that offer something for any type of person and any type of mood.<\/p>",
+            "enable_follow_on_shop": false
+          }
+        },
+        "1600315548142": {
+          "type": "links",
+          "settings": {
+            "title": "LINKS",
+            "link_list": "footer"
+          }
+        },
+        "1600315553114": {
+          "type": "newsletter",
+          "disabled": true,
+          "settings": {
+            "title": "GET 10% OFF",
+            "text": "<p>Join our community to receive updates on exclusive jewelry content and more!<\/p>"
+          }
+        },
+        "klaviyo_email_marketing_sms_form_embed_block_D64Hf6": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "XDsV2M"
+          }
+        }
+      },
+      "block_order": [
+        "1600315542945",
+        "1600315548142",
+        "1600315553114",
+        "klaviyo_email_marketing_sms_form_embed_block_D64Hf6"
+      ],
+      "custom_css": [
+        ".footer__bottom {justify-content: center;}",
+        "input[type=\"email\"] {padding-right: 40px !important;}",
+        "[data-testid=\"form-row\"] button {position: absolute; right: 10px; font-size: 0 !important; min-width: 20px; background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0073\/4035\/9762\/files\/arrow_right.png?v=1721180500) !important; background-repeat: no-repeat !important; background-position: center !important;}"
+      ],
+      "settings": {
+        "show_locale_selector": false,
+        "show_currency_selector": false,
+        "show_social_icons": true,
+        "show_payment_icons": false
+      }
+    },
+    "custom_liquid_R8eqGG": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script>\ndocument.addEventListener(\"DOMContentLoaded\", function() {\n\n    const newsletterHeader = document.querySelector('.footer__group.footer_app .footer__header');\n    console.log(newsletterHeader)\n    \/\/ Check if the element exists\n    if (newsletterHeader) {\n        \/\/ Add a 200ms delay before triggering the click event\n        setTimeout(function() {\n            newsletterHeader.click();\n        }, 200);\n    }\n});\n\n\n<\/script>"
+      }
+    }
+  },
+  "order": [
+    "footer",
+    "custom_liquid_R8eqGG"
+  ]
+}
